@@ -1,0 +1,1 @@
+Complete ToDoList tutorial from Play Framework website. Extended slightly to make actions asynchronous and make use of Service and Repository classes for DB access. Intended to be used for bootstrapping future projects.
